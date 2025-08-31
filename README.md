@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Waleed Galal
+# 👋 Hi, I'm Waled Galal
 
 🚀 **Frontend Developer (Angular)**
 

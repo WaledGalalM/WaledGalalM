@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Waled Galal Mahmoud 
+# 👋 Hi, I'm Waled Galal Mahmoud .
 
 🚀 **Frontend Developer (Angular)**
 
@@ -20,7 +20,7 @@ I build clean, responsive, and accessible web apps with a focus on performance a
 
 **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS
 
-**Frameworks & Libraries:** Angular, RxJS, Angular Material, Bootstrap
+**Frameworks & Libraries:** Angular, RxJS, Angular Material, Bootstrap, Sass
 
 **Tools & Platforms:** Git & GitHub, VS Code, Netlify, Firebase
 

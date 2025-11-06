@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Waled Galal Mahmoud .
+# 👋 Hi, I'm Waled Galal | وليد جلال .
 
 🚀 **Frontend Developer (Angular)**
 

@@ -1,5 +1,7 @@
 ## Hi there 👋
 #
+
+ ![وليد جلال](IMG_20251102_201041_987.jpg)
 ![Waled Galal](6005600921607848774_121.jpg) |  👋 مرحبًا، أنا وليد جلال
 IMG_20251102_201041_987.jpg
 # 👋 Hi, I'm Waled Galal | وليد جلال .
@@ -61,8 +63,7 @@ I build clean, responsive, and accessible web apps with a focus on performance a
 ![Streak](https://streak-stats.demolab.com?user=WaledGalalM)
 
 
----
- ![وليد جلال](IMG_20251102_201041_987.jpg)  
+---  
 
 ## 📫 Connect
 

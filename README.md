@@ -1,6 +1,6 @@
 ## Hi there 👋
 #
-![Waled Galal](./waled-galal.jpg)👋 مرحبًا، أنا وليد جلال
+![Waled Galal](6005600921607848774_121.jpg)👋 مرحبًا، أنا وليد جلال
 # 👋 Hi, I'm Waled Galal | وليد جلال .
 
 🚀 **Frontend Developer (Angular)**

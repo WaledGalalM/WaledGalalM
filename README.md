@@ -1,6 +1,6 @@
 ## Hi there 👋
 #
-![Waled Galal](6005600921607848774_121.jpg) |  ![وليد جلال](IMG_20251102_201041_987.jpg)   👋 مرحبًا، أنا وليد جلال
+![Waled Galal](6005600921607848774_121.jpg) |   👋 مرحبًا، أنا وليد جلال
 IMG_20251102_201041_987.jpg
 # 👋 Hi, I'm Waled Galal | وليد جلال .
 
@@ -80,6 +80,7 @@ I build clean, responsive, and accessible web apps with a focus on performance a
 <!--
 **WaledGalalM/WaledGalalM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -90,4 +91,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ ![وليد جلال](IMG_20251102_201041_987.jpg) 
 -->

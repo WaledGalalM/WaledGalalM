@@ -1,6 +1,6 @@
  # 👋 Hi, I'm Waled Galal  (وليد جلال)
  
-![Waled Galal](6005600921607848774_121.jpg) |   !
+![Waled Galal](IMG_20251102_201055_949.jpg) |   !
 
 🚀 **Frontend Developer (Angular)**
 

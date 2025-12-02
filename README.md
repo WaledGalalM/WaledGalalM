@@ -1,4 +1,4 @@
- # 👋 Hi, I'm Waled Galal  (وليد جلال)
+ # 👋 Hi, I'm Waled Galal  (وليد جلال) A Frontend Developer
  
 ![Waled Galal](IMG_20251102_201055_949.jpg) |   !
 
